@@ -63,15 +63,10 @@ react, useState, conditional rendering.
 ### Learning Objectives
 
 1. Why and what is react?
-
 2. Able to use CRA  and run the application.
-
 3. Basic understanding of JSX.
-
 4. Difference between State and props.
-
 5. Conditional rendering.
-
 6. Props Passing.
 
 7. Handling basic onClick events.
